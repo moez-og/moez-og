@@ -1,3 +1,8 @@
+## 🐍 Contributions Snake (animation)
+
+<img src="https://raw.githubusercontent.com/moez-og/moez-og/output/snake.svg" alt="Snake animation" />
+
+
 <p align="left">
 Hi 👋! My name is <b>Moez Ouaghrem</b> and I'm a <b>Computer Science Engineering student</b> from <b>Tunisia</b> 🇹🇳<br/>
 I’m currently focusing on <b>DevOps</b> (Linux, Docker, CI/CD) and building hands-on labs to turn learning into real projects.
@@ -76,15 +81,4 @@ I’m currently building a DevOps portfolio with projects like:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moez-og&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moez-og&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-## 🐍 Contributions Snake (animation)
-
-<img src="https://raw.githubusercontent.com/moez-og/moez-og/output/snake.svg" alt="Snake animation" />
