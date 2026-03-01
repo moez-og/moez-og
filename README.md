@@ -1,8 +1,3 @@
-## 🐍 Contributions Snake (animation)
-
-<img src="https://raw.githubusercontent.com/moez-og/moez-og/output/snake.svg" alt="Snake animation" />
-
-
 <p align="left">
 Hi 👋! My name is <b>Moez Ouaghrem</b> and I'm a <b>Computer Science Engineering student</b> from <b>Tunisia</b> 🇹🇳<br/>
 I’m currently focusing on <b>DevOps</b> (Linux, Docker, CI/CD) and building hands-on labs to turn learning into real projects.
@@ -13,6 +8,8 @@ I’m currently focusing on <b>DevOps</b> (Linux, Docker, CI/CD) and building ha
 </div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/moez-og/moez-og/output/snake.svg" alt="Snake animation" />
 
 ## 👨‍💻 About Me
 
